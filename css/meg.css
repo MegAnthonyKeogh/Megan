@@ -18,3 +18,50 @@
 font-size: 20px;
 color: whitesmoke;
   }
+  li {
+    font-size: 20px;
+color: whitesmoke;
+
+  }
+  a {
+    color: #f20957;
+  }
+  a.btn {
+    color: white !important;
+  }
+
+  hr {
+    border-color: #f20957 !important;
+  }
+
+  .btn {
+    background-color: #f20957 !important;
+    color: white;
+  }
+  .mb-2 {
+    color: #f20957 !important;
+  }
+  .card {
+    border-bottom: #f20957 !important;
+  }
+ .featured-text {
+   border-left: .5rem solid #f20957 !important;
+ }
+
+  .nav-link {
+    border-bottom: #f20957;
+    color: #f20957;
+  }
+  li {
+    color: #f20957 !important;
+  }
+  .active {
+    border-color: #f20957 !important;
+    
+  }
+  .nav-link:hover {
+    color: #f20957 !important;
+  }
+  .nav-link.active {
+    color: #f20957 !important;
+  }
